@@ -1,13 +1,13 @@
-# xhchen.github.io
+# xhchen28.github.io
 
-个人主页源码，托管在 GitHub Pages。
+Personal homepage source, hosted on GitHub Pages.
 
-- `index.html` — 主页结构
-- `style.css` — 样式
+- `index.html` — page structure
+- `style.css` — styles
 
-本地预览：
+Local preview:
 
 ```bash
 python3 -m http.server 8000
-# 访问 http://localhost:8000
+# open http://localhost:8000
 ```
